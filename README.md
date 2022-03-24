@@ -8,7 +8,7 @@ This programi is like Steam and Epic games GameLunchers !
          <li>Add your games into this program and easily Run them</li>
          <li>Delete Games From Your Library</li>
          <li>Limit Children Playing Time during a day! ( Default: 2 h/day)  </li>
-         <li>After Ending Time , Your Library will lock and can not play games(Also games be stoped)</li>
+         <li>After Ending Time , Your Library will be locked and can play games no more (Also games be stoped)</li>
 </ul>
 
 <h2>ScreenShot</h2>
