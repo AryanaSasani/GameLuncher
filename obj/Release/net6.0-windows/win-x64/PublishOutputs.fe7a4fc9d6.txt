@@ -1,0 +1,10 @@
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\GameControl.exe
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\MyDB.db
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\GameControl.dll
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\GameControl.deps.json
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\GameControl.runtimeconfig.json
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\GameControl.dll.config
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\GameControl.pdb
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\Dapper.dll
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\System.Data.SQLite.dll
+C:\Users\Aryana\source\repos\GameControl\bin\Release\net6.0-windows\publish\win-x64\SQLite.Interop.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbiTJTEvUVqY2maypB3QfamnHDYl6vde04jY4kM4xn2WczAgkIbcLMMJr+LYb8KgfyITht1+/70mfGB9Zs9aug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aryana\\source\\repos\\GameControl\\GameControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aryana\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Aryana\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Aryana\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
